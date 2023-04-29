@@ -13,11 +13,11 @@
   }
   
   a:hover {
-    color: #309479;
+    color: #f565b9;
   }
   
   .text-primary {
-    color: #3cbb98 !important;
+    color: #eb115a !important;
   }
   
   h1,
@@ -66,14 +66,14 @@
   }
   
   .btn-primary {
-    background-color: #3cbb98;
-    border-color: #3cbb98;
+    background-color: #db356c;
+    border-color: #ec15e2;
   }
   
   .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
-    background-color: #339e80 !important;
-    border-color: #339e80 !important;
-    color: white;
+    background-color: #e05ea6 !important;
+    border-color: #e0167b !important;
+    color: pink;
   }
   
   .btn-primary:active, .btn-primary:focus {
