@@ -1,6 +1,6 @@
 #style.css
 body { 
-        background-color: rgb(243, 186, 196);
+        background-color: rgb(228, 158, 171);
         }
         h1{
           color: #6e6667;
@@ -16,10 +16,10 @@ body {
             padding: 12px;
             margin:  12px;
         }
-        
+     
 
 header{
-   background-color: #faF3D3D3;
+   background-color: #f51eadd3;
    font-size: smaller;
    padding-left: 10%;
    margin-right: 20px;
