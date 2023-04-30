@@ -12,8 +12,8 @@ h1,h2,h3,h4,h5,h6,p,ul{
   margin:  12px;
 
 }
-body h2 {
-
+body  {
+  background-color: #F3D3D3;
 font-size: 1em;
 font-weight: bold;
 font-family: 'Marhey', cursive;
@@ -146,4 +146,5 @@ background-color: gray;
 
   width: 200px;
   height: 150px;
-}
+seletor 
+
