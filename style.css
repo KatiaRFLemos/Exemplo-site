@@ -3,13 +3,13 @@
           background: pink;
         }
         h1{
-          cor: pink;
+          color: #6e6667;
           font-size: 88px;
           width: 30%;
 
-          h2 {
-            cor: black;
-            font-size: 70px;
+        h2 {
+          color: #6e6667;
+          font-size: 70px;
             
           }
         }
