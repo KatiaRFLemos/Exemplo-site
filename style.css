@@ -1,12 +1,12 @@
-<style>  
-        body { 
-          background: pink;
+#style.css
+body { 
+        background-color: rgb(243, 186, 196);
         }
         h1{
           color: #6e6667;
           font-size: 88px;
           width: 30%;
-
+        }
         h2 {
           color: #6e6667;
           font-size: 70px;
@@ -16,19 +16,16 @@
             padding: 12px;
             margin:  12px;
         }
-        }
-        </style>
+        #style.css
 
-
-<style>
-main {
-  background-color: #fF3D3D35;
-  font-family: 'Marhey', cursive/;
-  font - size: 70px
-  h1,h2,h3,h4,h5,p,ul{
-    padding: 12px;
+main{
+  background-color: #eb43aa;
+  font-family: 'Marhey', cursive;
+  font-size: 70px;
+  { h1,h2,h3,h4,h5,n};
+   padding: 12px;
     margin:  12px;
-
+  }
 
 header{
    background-color: #faF3D3D3;
