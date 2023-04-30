@@ -100,9 +100,11 @@ main }
 }
 
 footer {
+  background: #eb43aa;
   height: 200px;
-  font-size: 70px
- background-color: #ff569c4b;
+  font-size: 70px;
+  color: antiquewhite
+  
  ;
 }
 
