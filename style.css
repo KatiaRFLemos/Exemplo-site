@@ -26,3 +26,9 @@ header{
 
 
 }
+main{
+  background-color: #f51ead6c;
+  font-size: smaller;
+  padding-left: 10%;
+  margin-right: 10px;
+}
