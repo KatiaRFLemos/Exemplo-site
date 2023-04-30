@@ -4,12 +4,12 @@ body {
         }
         h1{
           color: #6e6667;
-          font-size: 88px;
+          font-size: 40px;
           width: 30%;
         }
         h2 {
           color: #6e6667;
-          font-size: 70px;
+          font-size: 40px;
             
           }
           h1,h2{
@@ -18,88 +18,8 @@ body {
         }
         #style.css
 
-main{
-  background-color: #eb43aa;
-  font-family: 'Marhey', cursive;
-  font-size: 70px;
-  { h1,h2,h3,h4,h5,n};
-   padding: 12px;
-    margin:  12px;
-  }
-
 header{
    background-color: #faF3D3D3;
+   font-size: smaller;
 }
 
-
-}
-body  {
-  background-color: #F3D3D3;
-font-size: 1em;
-font-weight: bold;
-font-family: 'Marhey', cursive;
-}
-
-h1 {
-font-size: 32px;
-font-weight: bolder;
-}
-
-.logo{
-  width: 50px;
-  height: 50px;
-}
-
-.menu{
-  position: absolute;
-  top: 90px;
-  right: 150px;
-}
-
-p::first-letter{ 
-
-  color:rgb(12, 1, 6);
-  font-size: 1.5em;
-
-}
-nav li{
-  list-style: none;
-  display: inline;
-  margin-left: 10px;
-}
-
-nav a{
-text-decoration:none;
-text-transform: uppercase;
-font-size: 32px;
-
-
-}
-
-nav a:hover {
-
-  text-decoration: underline;
-  font-size: 70px
-  px;
-  transition: 0.5s;
-
-}
-
-nav a:visited {
-
-  color: rgb(26, 6, 15);
-}
-
-  background-color: rgb(247, 157, 197);
-
-main }
-</style>
-}
-<style>
-footer {
-  background: #eb43aa;
-  height: 200px;
-  font-size: 70px;
-  color: antiquewhite
-  </style>
- ;
