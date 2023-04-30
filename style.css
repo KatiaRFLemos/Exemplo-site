@@ -6,6 +6,12 @@
           cor: pink;
           font-size: 88px;
           width: 30%;
+
+          h2 {
+            cor: black;
+            font-size: 70px;
+            
+          }
         }
         </style>
 
