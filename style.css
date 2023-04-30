@@ -1,22 +1,16 @@
 
-
-
 <head {
-  background-color: #ff56a5;
+  background-color: #fF3D3D35;
   font-family: 'Marhey', cursive/;
-  
-
-
-
-
+ 
 
   }
 header{
-   background-color: #ff56aa;
+   background-color: #faF3D3D3;
 }
 h1,h2,h3,h4,h5,h6,p,ul{
-  padding: 10px;
-  margin:  10px;
+  padding: 20px;
+  margin:  20px;
 
 }
 body h2 {
@@ -97,7 +91,7 @@ footer {
 }
 
 .momentos{
-  background-color: #F783CB;
+  background-color: #F3D3D3;
   margin: 10px;
   padding: 10px;
   border: black 2px;
