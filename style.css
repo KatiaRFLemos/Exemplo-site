@@ -18,19 +18,19 @@ body {
         }
    header{
    background-color: #f51ead6c;
-   font-size: smaller;
+   font-size: big;
    padding-left: 10%;
    margin-right: 20px;
 }
 main{
   background-color: #f51ead6c;
-  font-size: smaller;
+  font-size: big;
   padding-left: 10%;
   margin-right: 10px;
 }
 footer{
   background-color: #f51ead6c;
-   font-size: smaller;
+   font-size: big;
    padding-left: 10%;
    margin-right: 20px;
 }
