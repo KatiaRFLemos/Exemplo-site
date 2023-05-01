@@ -32,5 +32,6 @@ footer{
    font: 30px;
    padding-left: 10%;
    margin-right: 10px;}
-   p {color: red; text-align: center;}
-   div {color: black; text-align: center;}
+   p1 {color: red; text-align:center;font: 100;}
+   div2 {color: black; text-align: center; font:100}
+   div3 {color: black; text-align: center; font: 100;}
