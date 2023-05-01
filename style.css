@@ -1,6 +1,6 @@
-#style.css { 
+body { 
 background-color: #e49eab;
-        }
+ }
         h1{
           color: #6e6667;
           font-size: 40px;
@@ -12,7 +12,11 @@ background-color: #e49eab;
           }
           h1,h2{
             padding: 12px;
-            margin:  12px;        }
+            margin:  12px;  
+          }
+          .center {
+            text-align: center;
+          }
 header{
    background-color: #f51ead6c;
    font-size: big;
@@ -25,6 +29,8 @@ main{
   margin-right: 10px;}
 footer{
   background-color: #f51ead6c;
-   font-size: big;
+   font: 30px;
    padding-left: 10%;
    margin-right: 10px;}
+   .center {text-align: center;
+   }
