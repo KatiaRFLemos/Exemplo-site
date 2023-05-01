@@ -16,19 +16,21 @@ body {
             padding: 12px;
             margin:  12px;
         }
-     
-
-header{
+   header{
    background-color: #f51ead6c;
    font-size: smaller;
    padding-left: 10%;
    margin-right: 20px;
-
-
 }
 main{
   background-color: #f51ead6c;
   font-size: smaller;
   padding-left: 10%;
   margin-right: 10px;
+}
+footer{
+  background-color: #f51ead6c;
+   font-size: smaller;
+   padding-left: 10%;
+   margin-right: 20px;
 }
